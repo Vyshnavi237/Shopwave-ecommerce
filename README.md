@@ -1,12 +1,5 @@
 # ShopWave E-Commerce
 
-A modern full-stack e-commerce platform built with TypeScript.
-
-## Live Demo
-
-Frontend:
-https://e-commerce-nexus--vyshnavisangani.replit.app
-
 ## Features
 
 - User Authentication
