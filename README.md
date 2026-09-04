@@ -28,10 +28,6 @@ pnpm install
 pnpm dev
 ```
 
-## Screenshots
-
-<img width="1901" height="926" alt="image" src="https://github.com/user-attachments/assets/d8ff08f5-9260-41f3-b286-570ed312d44b" />
-
 
 ## Author
 
